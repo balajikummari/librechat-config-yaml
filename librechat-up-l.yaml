@@ -3,9 +3,9 @@ cache: true
 
 interface:
   customWelcome: |
-    Welcome to Scale.jobs AI.
+    Welcome to MyGPT.Scale.jobs.
 
-    Use this workspace for recruiting, operations, writing, research, and internal workflows.
+    Use this workspace as replacement for ChatGPT, Claude etc for writing, research, operations and internal workflows.
     Please verify important outputs before acting on them.
 
   privacyPolicy:
