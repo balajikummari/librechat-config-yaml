@@ -2,12 +2,6 @@ version: 1.2.4
 cache: true
 
 interface:
-  customWelcome: |
-    Welcome to MyGPT.Scale.jobs.
-
-    Use this workspace as replacement for ChatGPT, Claude etc for writing, research, operations and internal workflows.
-    Please verify important outputs before acting on them.
-
   privacyPolicy:
     externalUrl: "https://scale.jobs/privacy"
     openNewTab: true
